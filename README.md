@@ -3,7 +3,7 @@
 (precompiled from: https://github.com/Almamu/linux-wallpaperengine)
 
 # installation / usage (debian)
-> wget https://github.com/slynobody/linux_waypaper_engine__precompiled/releases/download/0.8/int_linux_wallpaper_engine_amd64.deb
+> wget https://github.com/slynobody/linux_wallpaper_engine__precompiled/releases/download/0.8/int_linux_wallpaper_engine_amd64.deb
 > 
 > sudo apt install ./int_linux_wallpaper_engine_amd64.deb
 > 
