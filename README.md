@@ -15,7 +15,7 @@
 in wpe-dir, call the app + output-device followed by wallpaper-id, example:
 > ./linux-wallpaperengine --screen-root eDP-1 3462267053
 
-# 🔧 Optionss
+# 🔧 Options
 
 | Option | Description |
 |--------|-------------|
