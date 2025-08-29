@@ -1,6 +1,9 @@
 # linux wallpaper engine 
-## wpe on everything other linux beside kde, f.e. hyprland, lxqt
+## wpe on everything other linux beside kde (f.e. gnome, hyprland, lxqt)
 (precompiled from: https://github.com/Almamu/linux-wallpaperengine)
+
+<img width="2702" height="1566" alt="2025-08-29_18-06" src="https://github.com/user-attachments/assets/9c607e9e-a42a-4204-8315-b08a9fcf94be" />
+
 
 # installation / usage (debian)
 > wget https://github.com/slynobody/linux_wallpaper_engine__precompiled/releases/download/0.8/int_linux_wallpaper_engine_amd64.deb
@@ -48,7 +51,7 @@ if installed elsewere, do a symlink of the 'asset'-folder to /usr/local/bin/wpe 
 > ./linux-wallpaperengine --screen-root eDP-1 ~/backgrounds/1845706469/
 
 ## error: Failed to initialize GLEW: Unknown error
-just ignore (wayland is supported): working wallpapers should simply show up (web-wallpapers have errors).
+just ignore (wayland *is* supported): working wallpapers should simply show up (web-wallpapers have errors).
 
 # Disclaimer
 1. Use at your own risk!
