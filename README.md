@@ -1,5 +1,5 @@
 # linux wallpaper engine 
-## wpe on everything other linux beside kde (f.e. gnome, hyprland, lxqt)
+## wpe on linux (gnome, hyprland, lxqt, ...)
 (precompiled from: https://github.com/Almamu/linux-wallpaperengine)
 
 <img width="2702" height="1566" alt="2025-08-29_18-06" src="https://github.com/user-attachments/assets/9c607e9e-a42a-4204-8315-b08a9fcf94be" />
@@ -15,7 +15,14 @@
 in wpe-dir, call the app + output-device followed by wallpaper-id, example:
 > ./linux-wallpaperengine --screen-root eDP-1 3462267053
 
-# 🔧 Options
+# optional: GUI
+
+<img width="3167" height="1567" alt="Screenshot_20251112_165149" src="https://github.com/user-attachments/assets/840a55ca-cff0-4322-815c-84d5a92a980b" />
+
+(if this is also installed: int_linux_wallpaper_engine_gui_amd64.deb)
+(precompiled from https://github.com/AzPepoze/linux-wallpaperengine-gui)
+
+# 🔧 konsole-usage / options
 
 | Option | Description |
 |--------|-------------|
