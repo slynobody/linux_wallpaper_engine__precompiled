@@ -4,6 +4,7 @@
 
 <img width="2702" height="1566" alt="2025-08-29_18-06" src="https://github.com/user-attachments/assets/9c607e9e-a42a-4204-8315-b08a9fcf94be" />
 
+<noscript><a href="https://liberapay.com/integr/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 # installation / usage (debian)
 > wget https://github.com/slynobody/linux_wallpaper_engine__precompiled/releases/download/0.8/int_linux_wallpaper_engine_amd64.deb
