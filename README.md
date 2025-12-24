@@ -1,3 +1,5 @@
+ [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/integr)
+ 
 # linux wallpaper engine 
 ## wpe on linux (gnome, hyprland, lxqt, ...)
 (precompiled from: https://github.com/Almamu/linux-wallpaperengine)
